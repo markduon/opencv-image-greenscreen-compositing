@@ -1,4 +1,4 @@
-# opencv-image-greenscreen-combine
+# opencv-image-greenscreen-compositing
 Image Processing and Manipulation with cv2
 
 
